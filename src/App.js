@@ -1,5 +1,5 @@
 import './App.css';
-import React, { useState, useSyncExternalStore } from 'react';
+import React, { useState} from 'react';
 import SearchBar from './features/SearchBar/SearchBar';
 import Todo from './features/Todo/Todo';
 
